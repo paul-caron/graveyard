@@ -1,2 +1,3 @@
-# graveyard
-Password manager assistant for bots
+# Graveyard
+A password manager assistant for bots
+
